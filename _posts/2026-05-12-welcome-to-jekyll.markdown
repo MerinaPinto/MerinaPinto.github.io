@@ -1,28 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Dead or dying languages in Asia"
 date:   2026-05-12 18:01:31 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+#Overview 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I am building a website focuesd on the endangered and dying languages in Asia and the Pacific Island. The site will provide information about each languages origins, the communities that speak them, and basic introductory lessons to help users learn simple concepts and phrases. I chose this project because many lanuguages in Asia are disapperaing due to globalization and shifting cultural trends, and I want to spread awareness of these languages through education and acessiable digital resources. This project is intended for facutly and students part of APIA. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+#project road map
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+#Github repo
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
